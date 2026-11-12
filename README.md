@@ -2,6 +2,12 @@
 
 A Flutter expense tracker for recording income and expenses in Indian rupees.
 
+## Screenshots
+
+| Sign in | Dashboard | Add transaction |
+| --- | --- | --- |
+| ![Expense Tracker sign-in screen](screenshots/sign-in.jpeg) | ![Expense Tracker dashboard](screenshots/dashboard.jpeg) | ![Add transaction form](screenshots/add-transaction.jpeg) |
+
 ## Features
 
 - Add, edit, and delete transactions with a category and date.
